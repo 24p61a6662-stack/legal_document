@@ -1,0 +1,27 @@
+SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement ("Agreement") is entered into as of [DATE] between [LICENSOR] ("Licensor") and [LICENSEE] ("Licensee").
+
+1. LICENSE GRANT
+Subject to the terms of this Agreement, Licensor grants Licensee a non-exclusive, non-transferable license to use the Software.
+
+2. RESTRICTIONS
+Licensee shall not: (a) copy or duplicate the Software; (b) sell, resell, or sublicense the Software; (c) reverse engineer the Software.
+
+3. FEES AND PAYMENT
+Licensee shall pay [LICENSE FEE] annually. Fees are due within 30 days of invoice.
+
+4. TERM AND TERMINATION
+This Agreement is effective for one (1) year and automatically renews unless either party provides 60 days' written notice of non-renewal.
+
+5. WARRANTY DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
+6. LIMITATION OF LIABILITY
+LICENSOR'S TOTAL LIABILITY SHALL NOT EXCEED THE FEES PAID IN THE PRECEDING TWELVE (12) MONTHS.
+
+7. DATA PRIVACY
+Licensor shall process personal data in compliance with applicable data protection laws including GDPR and CCPA.
+
+8. GOVERNING LAW
+This Agreement shall be governed by the laws of [STATE/COUNTRY].

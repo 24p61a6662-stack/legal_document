@@ -1,0 +1,33 @@
+INDEPENDENT CONTRACTOR AGREEMENT
+
+This Independent Contractor Agreement ("Agreement") is made effective as of [DATE], by and between [CLIENT NAME] ("Client") and [CONTRACTOR NAME] ("Contractor").
+
+1. SERVICES
+Contractor agrees to perform the following services ("Services"): [DESCRIPTION OF SERVICES]
+
+2. COMPENSATION
+Client shall pay Contractor [RATE] per [HOUR/PROJECT]. Payment shall be made within thirty (30) days of receipt of invoice.
+
+3. INDEPENDENT CONTRACTOR STATUS
+Contractor is an independent contractor and not an employee of Client. Contractor is responsible for all taxes and insurance.
+
+4. INTELLECTUAL PROPERTY
+All work product created by Contractor in the performance of Services shall be owned exclusively by Client ("Work for Hire").
+
+5. CONFIDENTIALITY
+Contractor agrees to keep all Client information strictly confidential during and after the term of this Agreement.
+
+6. NON-COMPETE
+Contractor agrees not to engage in any competing business within [GEOGRAPHIC AREA] for a period of [DURATION] following termination.
+
+7. TERMINATION
+Either party may terminate this Agreement upon [30] days' written notice. Client may terminate immediately for cause.
+
+8. LIMITATION OF LIABILITY
+In no event shall either party be liable for indirect, incidental, or consequential damages.
+
+9. GOVERNING LAW
+This Agreement shall be governed by the laws of [STATE].
+
+10. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations and understandings.

@@ -1,0 +1,33 @@
+VENDOR AGREEMENT
+
+This Vendor Agreement ("Agreement") is made as of [DATE] between [COMPANY NAME] ("Company") and [VENDOR NAME] ("Vendor").
+
+1. PRODUCTS AND SERVICES
+Vendor agrees to supply [DESCRIPTION OF PRODUCTS/SERVICES] ("Products") as ordered by Company from time to time.
+
+2. PRICING
+Prices are as set forth in agreed purchase orders. Vendor may not increase prices without 60 days' written notice.
+
+3. PURCHASE ORDERS
+Company shall submit purchase orders which Vendor must accept or reject within 5 business days.
+
+4. DELIVERY
+All Products shall be delivered by the date specified in each purchase order. Time is of the essence.
+
+5. WARRANTIES
+Vendor warrants that all Products: (a) conform to specifications; (b) are free from defects; (c) comply with applicable laws.
+
+6. RETURNS
+Company may return non-conforming Products within 30 days. Vendor shall provide refund or replacement within 15 days.
+
+7. INDEMNIFICATION
+Vendor shall indemnify Company against claims arising from defective Products or IP infringement.
+
+8. TERM AND TERMINATION
+This Agreement has a one-year term and auto-renews unless either party gives 30-day notice.
+
+9. CONFIDENTIALITY
+Both parties agree to maintain confidentiality of the other's proprietary information.
+
+10. GOVERNING LAW
+This Agreement is governed by the laws of [STATE].

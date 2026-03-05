@@ -1,0 +1,31 @@
+SERVICE AGREEMENT
+
+1. Scope of Services
+The Service Provider agrees to provide IT consulting services as described in Annexure A.
+
+2. Payment Terms
+The Client shall pay INR 1,00,000 per month within 15 days of invoice submission.
+
+3. Late Payment
+Late payments shall incur interest at 2% per month.
+
+4. Term and Renewal
+This Agreement shall be valid for one year and shall automatically renew unless terminated with 60 days notice.
+
+5. Termination
+Either party may terminate for material breach if not cured within 30 days.
+
+6. Limitation of Liability
+The Service Provider’s liability shall not exceed the total fees paid under this Agreement.
+
+7. Indemnity
+The Client agrees to indemnify the Service Provider against third-party claims arising from misuse of services.
+
+8. Confidentiality
+Both parties agree to maintain confidentiality of sensitive information.
+
+9. Data Protection
+Both parties shall comply with applicable data protection laws including GDPR where applicable.
+
+10. Dispute Resolution
+Disputes shall be resolved through arbitration under Indian Arbitration Act.

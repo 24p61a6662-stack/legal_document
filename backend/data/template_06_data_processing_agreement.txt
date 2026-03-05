@@ -1,0 +1,31 @@
+DATA PROCESSING AGREEMENT (DPA)
+
+This Data Processing Agreement ("DPA") supplements the Master Services Agreement between [CONTROLLER] ("Data Controller") and [PROCESSOR] ("Data Processor") and is required under Article 28 of the GDPR.
+
+1. DEFINITIONS
+"Personal Data" has the meaning given in GDPR Article 4.
+"Processing" has the meaning given in GDPR Article 4.
+
+2. PROCESSING INSTRUCTIONS
+Data Processor shall process Personal Data only on documented instructions of Data Controller.
+
+3. SECURITY MEASURES
+Data Processor shall implement appropriate technical and organizational security measures including:
+- Encryption of personal data in transit and at rest
+- Access controls and authentication
+- Regular security assessments
+
+4. SUB-PROCESSORS
+Data Processor shall not engage sub-processors without prior written authorization of Data Controller.
+
+5. DATA BREACH NOTIFICATION
+Data Processor shall notify Data Controller within 72 hours of discovering a personal data breach.
+
+6. DATA SUBJECT RIGHTS
+Data Processor shall assist Data Controller in responding to data subject rights requests within 30 days.
+
+7. DATA DELETION
+Upon termination, Data Processor shall delete or return all personal data within 30 days.
+
+8. GOVERNING LAW
+This DPA is governed by the law of [EU MEMBER STATE].

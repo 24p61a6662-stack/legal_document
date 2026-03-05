@@ -1,0 +1,30 @@
+CONSULTING AGREEMENT
+
+This Consulting Agreement ("Agreement") is made between [COMPANY NAME] ("Company") and [CONSULTANT NAME] ("Consultant"), effective [DATE].
+
+1. SCOPE OF SERVICES
+Consultant shall provide professional consulting services in the area of [SPECIALTY], as detailed in Exhibit A.
+
+2. COMPENSATION
+Company shall pay Consultant $[RATE] per hour or $[FIXED FEE] for the project, payable within Net 30 days of invoice.
+
+3. EXPENSES
+Company shall reimburse pre-approved expenses within 30 days of receipt of receipts.
+
+4. TERM
+This Agreement begins on [START DATE] and terminates on [END DATE], unless terminated earlier.
+
+5. TERMINATION
+Either party may terminate with 14 days' written notice. Company may terminate immediately for material breach.
+
+6. WORK PRODUCT
+All deliverables created by Consultant are owned by Company upon full payment.
+
+7. INDEPENDENT CONTRACTOR
+Consultant is an independent contractor. No employee benefits apply.
+
+8. INDEMNIFICATION
+Each party shall indemnify the other against claims arising from its own negligence or willful misconduct.
+
+9. LIMITATION OF LIABILITY
+Neither party shall be liable for indirect, consequential, or punitive damages.

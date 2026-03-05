@@ -1,0 +1,28 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into as of [DATE] between [PARTY A] ("Company A") and [PARTY B] ("Company B") (collectively, the "Parties").
+
+1. PURPOSE
+The Parties wish to explore a potential business relationship (the "Purpose") and may disclose to each other certain confidential and proprietary information.
+
+2. DEFINITION OF CONFIDENTIAL INFORMATION
+"Confidential Information" means any information disclosed by either Party to the other Party, either directly or indirectly, in writing, orally or by inspection of tangible objects, that is designated as "Confidential" or that reasonably should be understood to be confidential.
+
+3. OBLIGATIONS OF RECEIVING PARTY
+Each Party agrees to: (a) hold the Confidential Information in strict confidence; (b) not disclose the Confidential Information to third parties; (c) use the Confidential Information only for the Purpose.
+
+4. TERM
+This Agreement shall remain in effect for two (2) years from the date of execution.
+
+5. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of Delaware.
+
+6. REMEDIES
+Each Party acknowledges that breach of this Agreement would cause irreparable harm for which monetary damages would be inadequate, and that injunctive relief is an appropriate remedy.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.
+
+[PARTY A SIGNATURE]                    [PARTY B SIGNATURE]
+Name: _______________                  Name: _______________
+Title: _______________                 Title: _______________
+Date: ________________                 Date: ________________
